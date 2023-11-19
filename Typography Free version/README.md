@@ -1,5 +1,9 @@
 # <a href="https://typography-themexpose.blogspot.com/">Typography</a>
 
+<div style = "text-align: center;">
+  <img src="template.webp" />
+</div>
+
 Reference: <a href="https://www.niagahoster.co.id/blog/template-blogger-responsive/">Niagahoster: 30+ Template Blogger Responsive dan Gratis!</a>
 
 Bagi Anda yang membangun blog berbasis Blogger dengan mengedepankan tulisan, inilah template untuk Anda. Typography cocok untuk blog pribadi maupun blog bagi penulis untuk menunjukkan hasil karyanya.
